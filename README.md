@@ -15,6 +15,8 @@ I use jupyter notebook to develop this project.
   loss : sparse_categorical_crossentropy
 * project_1_validation_vgg_model.ipynb
   The file used to validation the model
+* project_1_predict_other_image.ipynb
+  The file used to predict other image dataset
 
 ## The Result
 * VGG16 ep 30 give 0.95 accuracy and 0.94 validation accuracy
